@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://yunitaz.github.io/sitemap/sitemap_index.txt
